@@ -89,4 +89,4 @@ Follow these steps to get started with the repository:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/curiosity-lab.git
+   git clone https://github.com/Prasanna-Nadrajan/curiosity-lab.git
